@@ -1,0 +1,19 @@
+.sample {
+  &-navigation-title {
+    height: 120px;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    position: relative;
+    z-index: 999;
+    font-size: 32px;
+    color: #fff;
+    box-sizing: border-box;
+    image {
+      width: 20px;
+      height: 35px;
+      padding-right: 30px;
+    }
+  }
+}

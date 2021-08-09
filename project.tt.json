@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "widget-turntable",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
