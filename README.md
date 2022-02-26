@@ -38,4 +38,5 @@ yarn dev:weapp
 
 # 请我们喝杯咖啡
 
-![Aimwidget](/git-assets/donate.png)
+<img src="./git-assets/donate.png" width="300">
+
