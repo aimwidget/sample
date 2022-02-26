@@ -35,3 +35,7 @@ import { postSamples } from '../../api/sample'
 ```
 yarn dev:weapp
 ```
+
+# 请我们喝杯咖啡
+
+![Aimwidget](/git-assets/donate.png)
