@@ -4,23 +4,16 @@
 
 ![Aimwidget](/git-assets/aimwidget.png)
 
-展示（以微信为例）
+### 展示（以微信为例）
 
-![qr-code](/git-assets/qrcode.png)
+![show](/git-assets/qrcode.png)
 
 如果您需要定制服务请联系我们
 
-- [https://github.com/aimwidget/sample/discussions](https://github.com/aimwidget/sample/discussions)
 
-![Aimwidget](/git-assets/aimwidget.png)
-
-小程序查看
+### 小程序查看
 
 ![qr-code](/git-assets/miniprogram.png)
-
-如果您有任何建议或者提交插件的想法，请联系我们
-
-- [https://github.com/aimwidget/sample/discussions](https://github.com/aimwidget/sample/discussions)
 
 
 # 开发相关
